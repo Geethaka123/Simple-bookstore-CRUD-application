@@ -20,7 +20,6 @@ Please check the `book-store-project-images` directory for additional project-re
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Features
 
